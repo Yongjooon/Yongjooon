@@ -26,7 +26,7 @@
 
 ## Statistics
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjooon&exclude_repo=dkssud8150.github.io&layout=compact&theme=shadow_blue"/>&nbsp
   <img src="https://github-readme-stats.vercel.app/api?username=Yongjooon&theme=shadow_blue&show_icons=true" width="39.8%"/>&nbsp
 </div>
