@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjooon&exclude_repo=dkssud8150.github.io&layout=compact&theme=dark" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yongjooon&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://raw.githubusercontent.com/Yongjooon/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
 <!--
 **Yongjooon/Yongjooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
