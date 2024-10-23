@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=50&fontColor=FFFFFF&fontAlign=82&fontAlignY=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=200&section=header&text=Welcome&fontSize=50&fontColor=FFFFFF&fontAlign=82&fontAlignY=25" />
 
 <h3 style="text-decoration: none;">Skills</h3>
 <h4>✨Platforms & Languages✨</h4>
@@ -23,16 +23,16 @@
 
 ##
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjooon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" height="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjooon&exclude_repo=dkssud8150.github.io&layout=compact&theme=shadow_blue"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yongjooon&theme=tokyonight&show_icons=true" width="39.8%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yongjooon&theme=shadow_blue&show_icons=true" width="39.8%"/>
 </a>
 
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yongjooon&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yongjooon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Yongjooon/Yongjooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
