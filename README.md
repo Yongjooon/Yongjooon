@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=50&fontColor=FFFFFF&fontAlign=82&fontAlignY=25" />
 
-<h2 style="text-decoration: none;">👊🏿Skills</h2>
-<h3>Platforms & Languages</h3>
+<h3 style="text-decoration: none;">Skills</h3>
+<h4>✨Platforms & Languages✨</h4>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
@@ -12,15 +12,16 @@
 </div>
 <br/>
 
-<h3>Tools</h3>
+<h4>⚒️Tools⚒️</h4>
 <div>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>&nbsp
 </div>
 
-<br/>
 
+
+##
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjooon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
