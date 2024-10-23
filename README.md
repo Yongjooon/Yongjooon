@@ -27,6 +27,8 @@
 <a href="s">
   <img src="https://raw.githubusercontent.com/Yongjooon/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 </a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yongjooon&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **Yongjooon/Yongjooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
