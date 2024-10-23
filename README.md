@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9AFE&height=200&section=header&text=Welcome&desc=YongJoon's%20Github%20Profile&fontSize=50&fontColor=FFFFFF&fontAlignY=33&descSize=10&descAlign=57&descAlignY=44" />
 
-<h3 style="text-decoration: none;">Skills</h3>
+## Skills
+
 <h4>✨Platforms & Languages✨</h4>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
