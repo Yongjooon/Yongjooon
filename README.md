@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome👋&fontSize=50&fontColor=FFFFFF&fontAlign=82&fontAlignY=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=50&fontColor=FFFFFF&fontAlign=82&fontAlignY=25" />
 
 <h2 style="text-decoration: none;">👊🏿Skills</h2>
 <h3>Platforms & Languages</h3>
