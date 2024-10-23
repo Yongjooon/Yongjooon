@@ -1,6 +1,6 @@
 ## Hi there
 
-<h2>👊🏿Skills</h2>
+<h2 style="text-decoration: none;">👊🏿Skills</h2>
 <h3>Platforms & Languages</h3>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
