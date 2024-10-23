@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>&nbsp
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yongjooon&show_icons=true&theme=radical)
 <!--
 **Yongjooon/Yongjooon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
