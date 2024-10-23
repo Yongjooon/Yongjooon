@@ -1,7 +1,7 @@
 ## Hi there
 
-<div><h1>👊🏿Skills</h1></div>
-<h3>✨Platforms & Languages✨</h3>
+<h2>👊🏿Skills</h2>
+<h3>Platforms & Languages</h3>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
@@ -11,7 +11,7 @@
 </div>
 <br/>
 
-<h3>🛠Tools🛠</h3>
+<h3>Tools</h3>
 <div>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
