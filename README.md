@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0080FF&height=200&section=header&text=Welcome&fontSize=50&fontColor=FFFFFF&fontAlign=82&fontAlignY=25" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9AFE&height=200&section=header&text=Welcome&desc=YongJoon's%20Github%20Profile&fontSize=50&fontColor=FFFFFF&fontAlignY=33&descSize=10&descAlign=57&descAlignY=44" />
 
 <h3 style="text-decoration: none;">Skills</h3>
 <h4>✨Platforms & Languages✨</h4>
