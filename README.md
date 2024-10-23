@@ -2,7 +2,7 @@
 
 <h1>👊🏿Skills</h1>
 
-## Languages
+<h3>✨ Tech Stack ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScrpit-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
