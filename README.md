@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
-<h1>👊🏿Skills</h1>
+<div><h1>👊🏿Skills</h1></div>
 <h3>✨Platforms & Languages✨</h3>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
